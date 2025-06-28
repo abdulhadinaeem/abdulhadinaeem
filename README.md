@@ -1,87 +1,95 @@
 # Hi there 👋
 
-I'm Abdul Hadi, a passionate Flutter developer with one year of experience in developing robust and scalable mobile applications.
+I'm **Abdul Hadi**, a passionate **Flutter Developer** with 2+ years of experience building robust, scalable, and user-friendly mobile applications for clients in the transportation, finance, health, and marketing sectors.
 
-## About Me
+---
 
-- 🌟 I'm experienced in Flutter, Dart, Firebase, Provider, GetX, MQTT protocols, local storage, API integration, and Google APIs integration.
-- 👀 I’m interested in building cross-platform mobile applications, learning new technologies, and contributing to open source projects.
-- 🌱 I’m currently learning advanced Flutter techniques, backend development, and improving my knowledge of design patterns.
-- 💞️ I’m looking to collaborate on exciting Flutter projects, open source contributions, and innovative mobile app ideas.
-- 📫 How to reach me: You can contact me via email at [abdulhadi4it@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/abdul-hadi-flutterdev161).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to solve puzzles and play chess in my free time!
+## 🚀 About Me
 
-## Skills
+- 💼 I specialize in cross-platform app development using **Flutter & Dart**.
+- 🔧 Experienced in integrating **Firebase**, **Google APIs**, **RESTful APIs**, and **Bluetooth**, with a focus on performance and clean architecture.
+- 🔄 Familiar with **GetX**, **Provider**, **MQTT**, **local storage**, and scalable state management solutions.
+- 📲 Published apps on both **Play Store** and **App Store**.
+- 🔐 Implemented features like **OCR document verification**, **in-app payments (Apple/Google Pay)**, and **real-time data communication**.
+- 🌱 Currently exploring backend development and advanced app architecture patterns.
+- 🤝 Looking to collaborate on innovative Flutter projects or contribute to open-source.
 
-- **Languages:** Dart, C#
+---
+
+## 🧠 Skills
+
+- **Languages:** Dart, C++
 - **Frameworks:** Flutter
-- **State Management:** Provider, GetX
-- **Backend as a Service (BaaS):** Firebase
+- **State Management:** GetX, Provider
+- **Backend & BaaS:** Firebase (Auth, Firestore, Cloud Functions)
 - **Protocols:** MQTT
-- **Storage Solutions:** Local Storage, Shared Preferences
-- **API Integration:** RESTful APIs, Google APIs
-- **Tools:** Git, GitHub, Visual Studio Code
+- **APIs:** RESTful APIs, Google APIs (Maps, Drive)
+- **Tools:** Git, GitHub, Xcode, Android Studio, VS Code
+- **Other:** OCR Integration, Bluetooth, Apple/Google Pay, Local Storage (Hive, SharedPreferences)
 
-## Projects
+---
 
-### [Shoe Shop App UI](https://github.com/abdulhadinaeem/project-name](https://github.com/abdulhadinaeem/shoe-shop-app))
-- **Description:** It's a Shoes Shopping App UI. I have add smooth animation flow in this app.
-- **Technologies Used:** Flutter, Dart.
+## 💼 Professional Experience
 
+### 🧾 Flutter Developer – Novlt (2025)
+- Built an AI-powered social media analytics app with YouTube, Facebook, Instagram & LinkedIn integrations.
+- Integrated **Apple Pay / Google Pay** and provided real-time analytics on social media posts.
+- Used **Firebase**, **GetX**, and secure auth for robust architecture.
 
-### [Entertainment App UI](https://github.com/abdulhadinaeem/rumored-app)
-- **Description:** This is an entertainment app. User can login & signup in this app and join and create the quiz.
--  It's just like thruth or dare app in this app user can select is there is any minor in the game or not &
--  also user can select is he want to play drinking game or not and many more. It's just the Ui of complete app.
-- **Technologies Used:** Flutter, Getx, Dart, etc.
-- **Features:** Login & Sign up , Create Quiz , Join Quiz , See Profile, etc.
+### 🚗 Flutter Developer – MiniCabs (2025)
+- Created a driver app with OCR for ID verification.
+- Managed API integration, authentication, and real-time onboarding flow.
 
-### [Health Care App Patient Side](https://github.com/abdulhadinaeem/HealthCare-App)
-- **Description:** This is a Health Care App. In this app I have add FireBase Auth to authenticate
--  the user and user can login and signup & Booked an appointment and see there booked appointment in this app.
-- **Technologies Used:** Flutter, Dart, Firebase, Getx.
--  **Features:** Login & Sign up , Book Appointment , See Appointment, etc.
+### 🚘 Flutter Developer – Nessovo (2024–2025)
+- Built a **car rental app** with **Bluetooth unlock** and **installment payments**, and an **accounting app** for budget management.
+- Integrated Firebase and **MQTT** for backend and real-time data flow.
+- Published apps on **App Store** and **Play Store**.
 
-### [Chat App](https://github.com/abdulhadinaeem/chat_app)
-- **Description:** This is a Chat App. In this app I have add FireBase Auth to authenticate
--  the user and user can login and signup & Chat with other user and see last seen of user and unseen messages etc.
-- **Technologies Used:** Flutter, Dart, Firebase, Provider.
--  **Features:** Login & Sign up , Chat, etc.
+### 📍 Flutter Developer – IT Curves (2024)
+- Integrated Google Maps, Drive API, and Firebase services.
+- Used Provider for state management and improved overall app performance.
 
-### [E-commerce App](https://github.com/abdulhadinaeem/ecommerce_app)
-- **Description:** This is a E-commerce App. In this app I Intigrate fake api & get the data from api and
--  show in gridview in the app and also add filter and add to favorite and add to cart functionality etc.
-- **Technologies Used:** Flutter, Dart, Api Intigration with Http package, Provider, etc.
+### 👨‍💻 Internship – RootPointers (2023)
+- Converted Figma designs to Flutter UI, used **GetX** for state management.
+- Integrated Firebase Auth and REST APIs; contributed to real-world app development.
 
-### [Quiz App](https://github.com/abdulhadinaeem/quiz_app)
-- **Description:** This is a simple Quiz app in which can select options and complete quiz in 50 seconds and
--  each question has 10 seconds to select otherwise the question will be wrong and user can also show his score.
-- **Technologies Used:** Flutter, Dart, Provider, etc.
+---
 
-### [Google Drive Folder & Files Viewer App](https://github.com/abdulhadinaeem/It_Curves_Google_Drive_Viewer)
-- **Description:** This app is made for view the folder and files in google drive.When I add an File or Folder in
-- google drive user can see and read in the the app and when user open a file it's first time download and save in local storage
--  and user can also bookmarks the file page he want to save and the bookmarks data will save in local storage.
-- **Technologies Used:** Flutter, Dart, Google Drive Api, Getx,Local Storage(Hive) etc.
-- **Features:** See and Read Pdf Files ,Bookmark the File page, Delete the added bookmarks etc.
+## 📂 Featured Projects
 
-### [Calculate Diet App](https://github.com/abdulhadinaeem/calculate_dite)
-- **Description:** In this app user can add this data and the data is store in firebase firestore and the
--  user can calculate this calories by adding his daily meals and the data is storing in firebase.
-- **Technologies Used:** Flutter, Dart, Provider,Firebase etc.
-- **Features:** Add meal and see his daily calories and meals he consume.
+### 📱 [Health Care App (Patient)](https://github.com/abdulhadinaeem/HealthCare-App)
+- Firebase Auth, book appointments, view bookings.
 
+### 💬 [Chat App](https://github.com/abdulhadinaeem/chat_app)
+- Realtime messaging, last seen, Firebase Auth.
 
-## Get in Touch
+### 🛍️ [E-commerce App](https://github.com/abdulhadinaeem/ecommerce_app)
+- Fake API integration, filters, add to cart & favorites.
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me if you have any exciting projects or ideas you'd like to discuss.
+### 🧠 [Entertainment Quiz App](https://github.com/abdulhadinaeem/rumored-app)
+- Create/join games, drinking/truth-or-dare filter.
 
-- **Email:** [abdulhadi4it@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/abdul-hadi-flutterdev161)
-- **GitHub:** [abdulhadinaeem](https://github.com/abdulhadinaeem)
+### 📂 [Google Drive Viewer App](https://github.com/abdulhadinaeem/It_Curves_Google_Drive_Viewer)
+- View, download & bookmark PDFs from Drive.
 
-<!---
-abdulhadinaeem/abdulhadinaeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👟 [Shoe Shop UI](https://github.com/abdulhadinaeem/shoe-shop-app)
+- Animated shopping UI experience.
+
+### 🍱 [Calculate Diet App](https://github.com/abdulhadinaeem/calculate_dite)
+- Track calories & meals, Firebase-backed.
+
+### 🧪 [Quiz App](https://github.com/abdulhadinaeem/quiz_app)
+- Timed quiz, score tracking, responsive UI.
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [abdulhadi4it@gmail.com](mailto:abdulhadi4it@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/abdul-hadi-flutterdev161](https://www.linkedin.com/in/abdul-hadi-flutterdev161)  
+- **GitHub:** [github.com/abdulhadinaeem](https://github.com/abdulhadinaeem)  
+
+---
+
+✨ Let's build something amazing together!
+
