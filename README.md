@@ -10,20 +10,21 @@
 - 🚀 Specializing in Firebase integrations, REST APIs, and backend with Node.js
 - 🌍 Open to collaborations, freelance, and remote opportunities
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulhadinaeem&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdulhadinaeem&style=for-the-badge&color=blue" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulhadinaeem&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadinaeem&layout=compact&theme=dark&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulhadinaeem&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadinaeem&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadinaeem&theme=dark&hide_border=true" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadinaeem&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## Achievements
 
@@ -56,10 +57,7 @@
 |------------|-------------|----------|-------|-------|
 | [sms_sender_background](https://github.com/abdulhadinaeem/sms_sender_background) | A background SMS sending utility for Flutter applications. | Dart | 4 | 2 |
 | [widget_recorder_plus](https://github.com/abdulhadinaeem/widget_recorder_plus) | Record Flutter widget animations and generate preview demos. | Dart | - | - |
-| [calculator](https://github.com/abdulhadinaeem/calculator) | Basic calculator application. | C++ | - | - |
-| [calculate_dite](https://github.com/abdulhadinaeem/calculate_dite) | Diet calculation tool. | Dart | - | - |
-| [chat_app](https://github.com/abdulhadinaeem/chat_app) | Simple chat application. | Dart | - | - |
-| [quiz_app](https://github.com/abdulhadinaeem/quiz_app) | Quiz application built with Flutter. | Dart | - | - |
+
 
 ## Projects
 
