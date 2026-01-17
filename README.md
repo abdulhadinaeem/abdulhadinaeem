@@ -14,19 +14,23 @@
 </p>
 
 ---
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulhadinaeem&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdulhadinaeem&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulhadinaeem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadinaeem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulhadinaeem&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadinaeem&layout=compact&theme=dark&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadinaeem&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadinaeem&theme=dark&hide_border=true" alt="github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhadinaeem&theme=dark" alt="activity graph" />
 </p>
 
 ## Achievements
