@@ -1,95 +1,75 @@
-# Hi there 👋
+<h1 align="center">Hi 👋 I'm Abdul Hadi</h1>
+<h3 align="center">Flutter Developer | Mobile App Specialist | Firebase & Backend Integration Expert</h3>
 
-I'm **Abdul Hadi**, a passionate **Flutter Developer** with 2+ years of experience building robust, scalable, and user-friendly mobile applications for clients in the transportation, finance, health, and marketing sectors.
-
----
-
-## 🚀 About Me
-
-- 💼 I specialize in cross-platform app development using **Flutter & Dart**.
-- 🔧 Experienced in integrating **Firebase**, **Google APIs**, **RESTful APIs**, and **Bluetooth**, with a focus on performance and clean architecture.
-- 🔄 Familiar with **GetX**, **Provider**, **MQTT**, **local storage**, and scalable state management solutions.
-- 📲 Published apps on both **Play Store** and **App Store**.
-- 🔐 Implemented features like **OCR document verification**, **in-app payments (Apple/Google Pay)**, and **real-time data communication**.
-- 🌱 Currently exploring backend development and advanced app architecture patterns.
-- 🤝 Looking to collaborate on innovative Flutter projects or contribute to open-source.
+<p align="center">
+📱 Flutter • Dart • Firebase • GetX • Node.js  
+🚀 Building production-ready mobile apps & open-source tools  
+🌍 Open to remote opportunities & freelance projects  
+</p>
 
 ---
 
-## 🧠 Skills
+## 👨‍💻 About Me
 
-- **Languages:** Dart, C++
-- **Frameworks:** Flutter
-- **State Management:** GetX, Provider
-- **Backend & BaaS:** Firebase (Auth, Firestore, Cloud Functions)
-- **Protocols:** MQTT
-- **APIs:** RESTful APIs, Google APIs (Maps, Drive)
-- **Tools:** Git, GitHub, Xcode, Android Studio, VS Code
-- **Other:** OCR Integration, Bluetooth, Apple/Google Pay, Local Storage (Hive, SharedPreferences)
+I'm a **Flutter Developer with 2+ years of hands-on experience** building scalable mobile applications across fintech, transportation, social media, and utility platforms.
 
----
+I specialize in crafting **high-performance Flutter apps**, integrating cloud services, implementing clean architecture, and delivering production-ready solutions.
 
-## 💼 Professional Experience
+### What I Focus On:
 
-### 🧾 Flutter Developer – Novlt (2025)
-- Built an AI-powered social media analytics app with YouTube, Facebook, Instagram & LinkedIn integrations.
-- Integrated **Apple Pay / Google Pay** and provided real-time analytics on social media posts.
-- Used **Firebase**, **GetX**, and secure auth for robust architecture.
-
-### 🚗 Flutter Developer – MiniCabs (2025)
-- Created a driver app with OCR for ID verification.
-- Managed API integration, authentication, and real-time onboarding flow.
-
-### 🚘 Flutter Developer – Nessovo (2024–2025)
-- Built a **car rental app** with **Bluetooth unlock** and **installment payments**, and an **accounting app** for budget management.
-- Integrated Firebase and **MQTT** for backend and real-time data flow.
-- Published apps on **App Store** and **Play Store**.
-
-### 📍 Flutter Developer – IT Curves (2024)
-- Integrated Google Maps, Drive API, and Firebase services.
-- Used Provider for state management and improved overall app performance.
-
-### 👨‍💻 Internship – RootPointers (2023)
-- Converted Figma designs to Flutter UI, used **GetX** for state management.
-- Integrated Firebase Auth and REST APIs; contributed to real-world app development.
+- Cross-platform mobile development (Android & iOS)
+- Firebase & REST API integrations
+- Real-time features & background services
+- Clean architecture & scalable state management
+- UI implementation from Figma designs
+- Publishing apps to Play Store & App Store
 
 ---
 
-## 📂 Featured Projects
+## 🛠 Tech Stack
 
-### 📱 [Health Care App (Patient)](https://github.com/abdulhadinaeem/HealthCare-App)
-- Firebase Auth, book appointments, view bookings.
+### Mobile Development
+- Flutter
+- Dart
+- Android & iOS Deployment
 
-### 💬 [Chat App](https://github.com/abdulhadinaeem/chat_app)
-- Realtime messaging, last seen, Firebase Auth.
+### Backend & Cloud
+- Firebase (Auth, Firestore, Cloud Functions, FCM)
+- Node.js & Express
+- MongoDB
+- RESTful APIs
 
-### 🛍️ [E-commerce App](https://github.com/abdulhadinaeem/ecommerce_app)
-- Fake API integration, filters, add to cart & favorites.
+### State Management
+- GetX
+- Provider
 
-### 🧠 [Entertainment Quiz App](https://github.com/abdulhadinaeem/rumored-app)
-- Create/join games, drinking/truth-or-dare filter.
+### Tools & Services
+- Git & GitHub
+- Postman
+- VS Code
+- Android Studio
+- Xcode
+- Figma
 
-### 📂 [Google Drive Viewer App](https://github.com/abdulhadinaeem/It_Curves_Google_Drive_Viewer)
-- View, download & bookmark PDFs from Drive.
-
-### 👟 [Shoe Shop UI](https://github.com/abdulhadinaeem/shoe-shop-app)
-- Animated shopping UI experience.
-
-### 🍱 [Calculate Diet App](https://github.com/abdulhadinaeem/calculate_dite)
-- Track calories & meals, Firebase-backed.
-
-### 🧪 [Quiz App](https://github.com/abdulhadinaeem/quiz_app)
-- Timed quiz, score tracking, responsive UI.
+### Integrations & Features
+- OCR Verification
+- Bluetooth Communication
+- In-App Payments
+- Google APIs (Maps, Drive)
+- MQTT Protocol
+- Background Services
 
 ---
 
-## 📫 Get in Touch
+## 📦 Published Flutter Packages
 
-- **Email:** [abdulhadi4it@gmail.com](mailto:abdulhadi4it@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/abdul-hadi-flutterdev161](https://www.linkedin.com/in/abdul-hadi-flutterdev161)  
-- **GitHub:** [github.com/abdulhadinaeem](https://github.com/abdulhadinaeem)  
+### 📩 sms_sender_background
+A background SMS sending utility for Flutter applications.
 
----
 
-✨ Let's build something amazing together!
+### 🎥 widget_recorder_plus
+Record Flutter widget animations and generate preview demos.
+### 🎥 widget_recorder_plus Demo
+
+![Widget Recorder Demo](https://github.com/abdulhadinaeem/widget-recoding-plugin/blob/master/example_video%20(1).gif) 
 
