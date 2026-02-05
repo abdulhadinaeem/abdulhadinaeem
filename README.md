@@ -15,14 +15,6 @@
 
 ---
 
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulhadinaeem&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-- Pull Shark ×2
-
 ## 🛠 Skills
 
 <p align="center">
@@ -47,10 +39,6 @@
 | [sms_sender_background](https://github.com/abdulhadinaeem/sms_sender_background) | Background SMS sending utility for Flutter apps. | Dart | 4 | 2 |
 | [widget_recorder_plus](https://github.com/abdulhadinaeem/widget_recorder_plus) | Record Flutter widget animations and generate preview demos. | Dart | - | - |
 | [rumored-app](https://github.com/abdulhadinaeem/rumored-app) | Flutter app (pinned). | Dart | - | - |
-
-
-**Widget Recorder Plus Demo**  
-![Widget Recorder Demo](https://github.com/abdulhadinaeem/widget-recoding-plugin/raw/master/example_video%20(1).gif)
 
 ## Projects
 
