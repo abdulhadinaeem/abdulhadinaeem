@@ -10,11 +10,6 @@
 
 ---
 
-<p align="center">
-  I specialize in building high-performance <b>Flutter apps</b> with scalable <b>Node.js backends</b>. <br>
-  My focus is on <b>Fintech</b> (KYC, Payments), <b>IoT</b> (Bluetooth/Hardware), and <b>Real-time Systems</b>.
-</p>
-
 ## 🛠 Tech Stack
 
 <div align="center">
