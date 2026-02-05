@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
-<h3 align="center">Flutter Developer | Mobile App Specialist | Firebase & Backend Integration Expert</h3>
+<h3 align="center">Flutter Developer | Full-Stack Mobile Engineer | Node.js Backend</h3>
 
 <p align="center">
   <a href="https://hadi-portfolio-0f05646382fa.herokuapp.com/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
@@ -14,6 +14,11 @@
 </p>
 
 ---
+
+<p align="center">
+  I specialize in building high-performance <b>Flutter apps</b> with scalable <b>Node.js backends</b>. <br>
+  My focus is on <b>Fintech</b> (KYC, Payments), <b>IoT</b> (Bluetooth/Hardware), and <b>Real-time Systems</b>.
+</p>
 
 ## 🛠 Tech Stack
 
