@@ -1,51 +1,63 @@
 <h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
-<h3 align="center">Flutter Developer | Mobile App Specialist | Firebase & Backend Integration Expert</h3>
+<h3 align="center">Flutter Developer | Full-Stack Mobile Engineer | Node.js Backend</h3>
 
 <p align="center">
-  <a href="https://abdulhadi-dev.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.fiverr.com/ab_hadi_flutter" target="blank"><img src="https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   <a href="https://www.linkedin.com/in/abdulhadi-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  📍 Lahore, Pakistan<br>
-  📱 Cross-platform mobile apps with Flutter & Dart<br>
-  🚀 Firebase, REST APIs, Node.js backend, real-time features<br>
-  🌍 Open to freelance, remote work & collaborations
+  📍 <b>Lahore, Pakistan</b> • 🚀 <b>2+ Years Experience</b> • 📱 <b>5+ Live Apps</b>
+</p>
+
+<p align="center">
+  I specialize in building high-performance <b>Flutter apps</b> with scalable <b>Node.js backends</b>. <br>
+  My focus is on <b>Fintech</b> (KYC, Payments), <b>IoT</b> (Bluetooth/Hardware), and <b>Real-time Systems</b>.
 </p>
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,firebase,mongodb,postgres,git,cpp,apple,android" />
+</div>
+
+---
+
+## 🏆 Featured Projects (Live on App Stores)
+
+| Project | Category | Key Tech | Status |
+| :--- | :--- | :--- | :--- |
+| **[Mercii Money](https://apps.apple.com/us/app/mercii-send-money-pakistan/id6751805729)** | 💸 Fintech | **ShuftiPro KYC**, Volume API, Webhooks | 🟢 Live (App Store) |
+| **[DriveCard](https://play.google.com/store/apps/details?id=com.nessovo.drivecard2)** | 🚗 IoT / Rental | **Bluetooth (BLE)**, Hardware Lock/Unlock | 🟢 Live (Play Store) |
+| **[MiniCabs Driver](https://play.google.com/store/apps/details?id=com.webcars.driver)** | 🚕 Transport | **OCR Scanning**, Google Maps, Real-time | 🟢 Live (Play Store) |
+| **[SarcasmOS](https://github.com/abdulhadinaeem/SarcasmOS)** | 🤖 AI Tool | **Multi-LLM**, Gemini, Groq, Mistral | 💻 Open Source |
+
+---
+
+## 📦 Open Source Contributions
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| **[SarcasmOS](https://github.com/abdulhadinaeem/SarcasmOS)** | AI Resume Roaster using Gemini, Groq & Mistral fallback logic. | Flutter, AI |
+| **[sms_sender_background](https://github.com/abdulhadinaeem/sms_sender_background)** | Utility for sending SMS in background (Android). | Dart, MethodChannels |
+| **[widget_recorder_plus](https://github.com/abdulhadinaeem/widget_recorder_plus)** | Tool to record widget animations as video exports. | Flutter, Rendering |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulhadinaeem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul Hadi's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadinaeem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GetX-8B57E3?style=for-the-badge&logoColor=white" alt="GetX" />
-  <img src="https://img.shields.io/badge/Provider-000000?style=for-the-badge&logoColor=white" alt="Provider" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <i>Let's build something amazing together.</i><br>
+  <b><a href="https://www.fiverr.com/ab_hadi_flutter">Hire me on Fiverr</a></b>
 </p>
-
-## 📦 Popular Repositories & Flutter Packages
-
-| Repository | Description | Language | Stars | Forks |
-|------------|-------------|----------|-------|-------|
-| [sms_sender_background](https://github.com/abdulhadinaeem/sms_sender_background) | Background SMS sending utility for Flutter apps. | Dart | 4 | 2 |
-| [widget_recorder_plus](https://github.com/abdulhadinaeem/widget_recorder_plus) | Record Flutter widget animations and generate preview demos. | Dart | - | - |
-| [rumored-app](https://github.com/abdulhadinaeem/rumored-app) | Flutter app (pinned). | Dart | - | - |
-
-## Projects
-
-- **BLC (Driver App)**: Driver-side car booking app for managing ride requests, real-time bookings, and passenger tracking. Built with Flutter and REST APIs.
-- **DriveCard (Car Rental System)**: Car rental app with Bluetooth lock/unlock, installment payments, and booking management.
-- **Nobility (Content Creator Platform)**: App for script generation, content scheduling, social integrations, and analytics dashboard.
-- **Mercii Money (Fintech)**: Cross-platform app for UK-to-Pakistan money transfers. Integrated ShuftiPro KYC, Volume, USI, webhooks, and deep linking.
-- **Web Cars Driver**: Flutter driver app with real-time tracking, booking management, and payouts via Laravel backend.
-
-h
