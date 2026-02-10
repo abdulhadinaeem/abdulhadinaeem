@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
 <h3 align="center">Flutter Developer | Full-Stack Mobile Engineer | Node.js Backend</h3>
 
-<p align="center">
-  <a href="https://hadiapp.me/">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdulhadi-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center"> <a href="https://hadiapp.me/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-hadiapp.me-black?style=for-the-badge"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/abdulhadi-dev/" target="_blank"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Abdul%20Hadi-blue?style=for-the-badge"> </a> </div>
 
 <p align="center">
   📍 Lahore, Pakistan<br>
