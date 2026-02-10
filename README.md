@@ -9,6 +9,7 @@
 </p>
 
 ---
+<div align="center"> <a href="https://hadiapp.me/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-hadiapp.me-black?style=for-the-badge"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/abdulhadi-dev/" target="_blank"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Abdul%20Hadi-blue?style=for-the-badge"> </a> </div>
 
 ## 🛠 Tech Stack
 
