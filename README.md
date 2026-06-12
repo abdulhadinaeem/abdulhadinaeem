@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
 <h3 align="center">Flutter Developer | Full-Stack Mobile Engineer | Node.js Backend</h3>
 
-<div align="center"> <a href="https://hadiapp.me/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-hadiapp.me-black?style=for-the-badge"> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/abdulhadi-dev/" target="_blank"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Abdul%20Hadi-blue?style=for-the-badge"> </a> </div>
+<div align="center">
+  <a href="https://hadiapp.me/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-hadiapp.me-black?style=for-the-badge">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdulhadi-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Abdul%20Hadi-blue?style=for-the-badge">
+  </a>
+</div>
 
 <p align="center">
   📍 Lahore, Pakistan<br>
@@ -31,13 +39,12 @@
 
 ---
 
-## 📦 Open Source Contributions
+## 📦 Open Source Packages & Contributions
 
 | Repository | Description | Tech |
-|------------|-------------|------|
+| :--- | :--- | :--- |
+| **[update_checker_plus](https://github.com/abdulhadinaeem/update_checker_plus)** | The most powerful Flutter app update checker — force update, maintenance mode, Firebase / Supabase / HTTP remote config, Material 3 + Cupertino adaptive UI, one-line API. | Flutter, Dart |
 | **[SarcasmOS](https://github.com/abdulhadinaeem/SarcasmOS)** | AI Resume Roaster using Gemini, Groq & Mistral fallback logic. | Flutter, AI |
-| **[sms_sender_background](https://github.com/abdulhadinaeem/sms_sender_background)** | Utility for sending SMS in background (Android). | Dart, MethodChannels |
-| **[widget_recorder_plus](https://github.com/abdulhadinaeem/widget_recorder_plus)** | Tool to record widget animations as video exports. | Flutter, Rendering |
-| [rumored-app](https://github.com/abdulhadinaeem/rumored-app) | Flutter app (pinned). | Dart | - | - |
-
-
+| **[sms_sender_background](https://github.com/abdulhadinaeem/sms_sender_background)** | Utility for sending SMS in background on Android. | Dart, Platform Channels |
+| **[widget_recorder_plus](https://github.com/abdulhadinaeem/widget_recorder_plus)** | Record Flutter widget animations as video exports. | Flutter, Rendering |
+| **[rumored-app](https://github.com/abdulhadinaeem/rumored-app)** | Flutter app (pinned). | Dart |
